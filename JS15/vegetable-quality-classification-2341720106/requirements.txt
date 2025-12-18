@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+scikit-image
+numpy
+Pillow
+gradio
+Flask
