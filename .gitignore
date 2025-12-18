@@ -7,34 +7,6 @@ desktop.ini
 # Jupyter artifacts
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
-# Large local datasets (avoid bloating repo; adjust as needed)
-Vegetable Images/
-p10/data/
-p11/data/
-p13/dataset/
-p14/dataset/
-p6/data/
-p7/data/
-p8 (kuis)/data/
-p9/data/
-# Common data formats — remove entries below if you need to commit specific files
-*.csv
-*.tsv
-*.zip
-*.h5
-*.pkl
-*.pt
-*.pth
-*.npz
-*.npy
-*.sav
-*.joblib
-*.feather
-*.parquet
-# Google Drive native stub files (jika ada)
-*.gdoc
-*.gsheet
-*.gslides
 # IDE / editor
 .vscode/
 *.swp
